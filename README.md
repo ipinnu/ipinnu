@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a StartUp Autodrive 
+- 🔭 I’m currently working with a StartUp Autodrive as their CTO.
 - 🌱 App developer on his Flutter App development Journey through Tech
 - 👯 Studied Mechanical Engineering from Covenant University 
 - 📫 How to reach me:  ipinnu.oladipo23@gmail.com
